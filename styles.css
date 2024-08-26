@@ -211,6 +211,8 @@ footer{
 
 }
 
+/* Resizing width for smaller device */
+
 @media screen and (max-width: 400px){
   section form input[type="email"] {
     width: 100%;
